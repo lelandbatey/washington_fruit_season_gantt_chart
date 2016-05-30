@@ -1,0 +1,44 @@
+Category,Produce,"01 - January","02 - February","03 - March","04 - April","05 - May","06 - June","07 - July","08 - August","09 - September","10 - October","11 - November","12 - December"
+"Vitamin A",Apricots,,,,,,X,X,X,,,,
+"Vitamin A",Cantaloupe,,,,,,,,X,X,,,
+"Vitamin A",Nectarines,,,,,,X,X,X,X,,,
+"Vitamin A","Peaches, yellow",,,,,,X,X,X,X,,,
+"Vitamin A","Plums, purple",,,,,,X,X,X,X,,,
+"Vitamin C",Blackberries,,,,,,X,X,X,,,,
+"Vitamin C",Blueberries,,,,,,,X,X,X,,,
+"Vitamin C",Cantaloupe,,,,,,,,X,X,,,
+"Vitamin C","Honeydew melon",,,,,,,,X,X,,,
+"Vitamin C",Raspberries,,,,,,X,X,X,,,,
+"Vitamin C",Strawberries,,,,,X,X,X,X,X,,,
+Other,Apples,,,,,,,,,X,X,X,
+Other,"Asian pears",,,,,,,,,X,X,X,
+Other,"Cherries, Bings",,,,,,X,X,X,,,,
+Other,"Cherries, Rainiers",,,,,,X,X,X,,,,
+Other,Currants,,,,,,,X,X,X,,,
+Other,Grapes,,,,,,,,X,X,X,X,
+Other,Pears,X,X,X,X,X,X,X,X,X,X,X,X
+Other,Pluots,,,,,,,,X,X,,,
+Other,Quince,,,,,,,,,X,X,X,X
+Other,Watermelons,,,,,,,,X,X,X,,
+Other,"Frozen berries",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Black beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Cranberry beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Garbanzo/Chickpea, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Great Northern beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Kidney beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Lentils, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Navy beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Pink beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Legume,"Pinto beans, dry",X,X,X,X,X,X,X,X,X,X,X,X
+Herbs,Basil,,,,,,,X,X,X,,,
+Herbs,Chives,,,,X,X,X,X,X,X,,,
+Herbs,Cilantro/Coriander,,,,,X,X,X,X,X,X,X,
+Herbs,Dill,,,,,,,X,X,X,X,,
+Herbs,Fennel,,,,,X,X,X,X,X,X,X,
+Herbs,Lavender,,,,,,,X,,,,,
+Herbs,Garlic,X,X,X,X,X,X,X,X,X,X,X,X
+Herbs,Mint,X,X,X,X,X,X,X,X,X,X,X,X
+Herbs,Oregano,X,X,X,X,X,X,X,X,X,X,X,X
+Herbs,Parsley,X,,,,,,X,X,X,X,X,X
+Herbs,Rosemary,X,X,X,X,X,X,X,X,X,X,X,X
+Herbs,Sage,X,X,X,X,X,X,X,X,X,X,X,X

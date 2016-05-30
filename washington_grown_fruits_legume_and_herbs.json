@@ -1,0 +1,776 @@
+[
+    {
+        "Category": "Vitamin A",
+        "Produce": "Apricots",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin A",
+        "Produce": "Cantaloupe",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin A",
+        "Produce": "Nectarines",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin A",
+        "Produce": "Peaches, yellow",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin A",
+        "Produce": "Plums, purple",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Blackberries",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Blueberries",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Cantaloupe",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Honeydew melon",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Raspberries",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Vitamin C",
+        "Produce": "Strawberries",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Apples",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Asian pears",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Cherries, Bings",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Cherries, Rainiers",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Currants",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Grapes",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Pears",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Pluots",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Quince",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": false,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Watermelons",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": false,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Other",
+        "Produce": "Frozen berries",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Black beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Cranberry beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Garbanzo/Chickpea, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Great Northern beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Kidney beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Lentils, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Navy beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Pink beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Legume",
+        "Produce": "Pinto beans, dry",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Basil",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Chives",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Cilantro/Coriander",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Dill",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Fennel",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Lavender",
+        "months": {
+            "1": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": false,
+            "9": false,
+            "10": false,
+            "11": false,
+            "12": false
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Garlic",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Mint",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Oregano",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Parsley",
+        "months": {
+            "1": true,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false,
+            "6": false,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Rosemary",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    },
+    {
+        "Category": "Herbs",
+        "Produce": "Sage",
+        "months": {
+            "1": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "6": true,
+            "7": true,
+            "8": true,
+            "9": true,
+            "10": true,
+            "11": true,
+            "12": true
+        }
+    }
+]
